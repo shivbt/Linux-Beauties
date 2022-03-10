@@ -23,3 +23,9 @@ any memory allocation or deallocation (opposed to what we learn in our data
 structure classes). It just perform pointer manipulations. You could say
 _"Yeah I know. Whats big deal in that?"_. It become crucial when you are
 maintaining (feature addition, refactoring, reusebility) applications/ drivers.
+
+# OS: The Born Manager
+
+Its ever evolving isolation mechanism:
+    From process to threads, to virtual machines (hypervisors), to containers
+    (cgroups and namespaces).
