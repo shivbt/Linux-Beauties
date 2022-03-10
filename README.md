@@ -27,5 +27,5 @@ maintaining (feature addition, refactoring, reusebility) applications/ drivers.
 # OS: The Born Manager
 
 Its ever evolving isolation mechanism:
-    From process to threads, to virtual machines (hypervisors), to containers
-    (cgroups and namespaces).
+* From process to threads, to virtual machines (hypervisors), to containers
+(cgroups and namespaces).
