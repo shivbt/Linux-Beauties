@@ -1,3 +1,7 @@
+# Linux
+
+It made `mouse`, a luxury item.
+
 # The NULL Macro
 
 In Linux, `NULL` is a macro which is defined as:
